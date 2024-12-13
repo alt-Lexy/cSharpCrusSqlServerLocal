@@ -23,4 +23,13 @@ Taper: update-database
 C'est OK!  
 Vous pouvez verifier sur mssms  
 
-![image](https://github.com/user-attachments/assets/b51929af-1bba-40ad-b0af-af9dc52e02fe)
+![image](https://github.com/user-attachments/assets/b51929af-1bba-40ad-b0af-af9dc52e02fe)  
+
+Pour tester l'api get employees:  
+Depuis mssms, vous pouvez editer ou executer un insert d'un employee  
+Revenir sur le projet c# et le démarrer.  
+swagger UI devrai s'ouvrir.  
+Executer l'API GET employees  
+Observez le résultat  
+![image](https://github.com/user-attachments/assets/64a118b2-0930-4736-8de5-dc642366f241)
+
