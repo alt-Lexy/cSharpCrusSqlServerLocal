@@ -1,6 +1,6 @@
 # cSharpCrudSqlServerLocal
 
-Ouvrir le projet Api c#  
+Ouvrir le projet Api c#  (*il manque le fichier.sln + d'autres fichiers, ils contiennent des données sensibles*)
 
 Taper dans le terminal nuget : add-migration "initial migration"    
 Puis taper : update-database  
