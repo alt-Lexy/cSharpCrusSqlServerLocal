@@ -12,8 +12,8 @@ Vous devez ouvrir un terminal en mode Admin.
 ![image](https://github.com/user-attachments/assets/cc14da37-05f4-4847-9776-c7e234d78631)  
 Taper: *sqllocaldb create "localhost"*  
 
-Un fois le server créer, ouvrir mssms Microsoft SQL Server Management Studio.
-Connecte vous en rentrant le nom du serveur: (localDb)\localhost  
+Un fois le server créer, ouvrir mssms Microsoft SQL Server Management Studio.  
+Connectez vous en rentrant le nom du serveur: (localDb)\localhost  
 Vous pouver creer la db *EmployeeDb*  
 
 Ensuite, vous pouvez revenir sur le projet C#  
