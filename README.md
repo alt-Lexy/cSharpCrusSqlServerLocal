@@ -1,6 +1,6 @@
 # cSharpCrudSqlServerLocal
 
-Ouvrir un projet Api c#  
+Ouvrir le projet Api c#  
 
 Taper dans le terminal nuget : add-migration "initial migration"    
 Puis taper : update-database  
@@ -29,7 +29,7 @@ Pour tester l'api get employees:
 Depuis mssms, vous pouvez editer ou executer un insert d'un employee  
 Revenir sur le projet c# et le démarrer.  
 swagger UI devrai s'ouvrir.  
-Executer l'API GET employees  
+Executer l'API GET Employees  
 Observez le résultat  
 ![image](https://github.com/user-attachments/assets/64a118b2-0930-4736-8de5-dc642366f241)
 
