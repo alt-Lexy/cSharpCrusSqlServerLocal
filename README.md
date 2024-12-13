@@ -31,5 +31,15 @@ Revenir sur le projet c# et le démarrer.
 swagger UI devrai s'ouvrir.  
 Executer l'API GET Employees  
 Observez le résultat  
-![image](https://github.com/user-attachments/assets/64a118b2-0930-4736-8de5-dc642366f241)
+![image](https://github.com/user-attachments/assets/64a118b2-0930-4736-8de5-dc642366f241)  
+
+Pour test l'api post employees (ajout dans la table employee)  
+Démarrer le projet c#  
+Executer l'API POST employees depuis le swagger UI (remplacer les valeurs dans le request body)  
+Vous devez avoir ce résultat.  
+![image](https://github.com/user-attachments/assets/5d590301-cf55-4894-83ab-b125bc04f7ee)
+Allez sur mssms, fait un select de la table employee.  
+Vous devez avoir ce résultat.  
+![image](https://github.com/user-attachments/assets/0ff8dcf1-78b1-42f3-8e35-77ee745b99fc)
+
 
