@@ -25,7 +25,7 @@ Vous pouvez verifier sur mssms
 
 ![image](https://github.com/user-attachments/assets/b51929af-1bba-40ad-b0af-af9dc52e02fe)  
 
-Pour tester l'api get employees:  
+Pour tester l'API GET Employees:  
 Depuis mssms, vous pouvez editer ou executer un insert d'un employee  
 Revenir sur le projet c# et le démarrer.  
 swagger UI devrai s'ouvrir.  
@@ -33,11 +33,14 @@ Executer l'API GET Employees
 Observez le résultat  
 ![image](https://github.com/user-attachments/assets/64a118b2-0930-4736-8de5-dc642366f241)  
 
-Pour test l'api post employees (ajout dans la table employee)  
+Pour test l'api post Employees (ajout dans la table employee)  
 Démarrer le projet c#  
-Executer l'API POST employees depuis le swagger UI (remplacer les valeurs dans le request body)  
+Executer l'API POST Employees depuis le swagger UI (remplacer les valeurs dans le request body)  
 Vous devez avoir ce résultat.  
-![image](https://github.com/user-attachments/assets/5d590301-cf55-4894-83ab-b125bc04f7ee)
+![image](https://github.com/user-attachments/assets/5d590301-cf55-4894-83ab-b125bc04f7ee)  
+Executer l'API GET Employee, vous devez avoir ce résultat:  
+![image](https://github.com/user-attachments/assets/aea01528-d3ac-44fd-a8cc-709006e0e8e9)  
+
 Allez sur mssms, fait un select de la table employee.  
 Vous devez avoir ce résultat.  
 ![image](https://github.com/user-attachments/assets/0ff8dcf1-78b1-42f3-8e35-77ee745b99fc)
