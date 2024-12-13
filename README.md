@@ -21,7 +21,6 @@ ouvrir le terminal nuget
 Taper: update-database  
 ![image](https://github.com/user-attachments/assets/2900e1c4-a6f3-4b32-adc2-5338c2563daa)  
 C'est OK!  
-Vous pouvez verifier sur mssms
+Vous pouvez verifier sur mssms  
 
-
-
+![image](https://github.com/user-attachments/assets/b51929af-1bba-40ad-b0af-af9dc52e02fe)
