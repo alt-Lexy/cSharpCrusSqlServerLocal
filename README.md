@@ -43,6 +43,10 @@ Executer l'API GET Employee, vous devez avoir ce résultat:
 
 Allez sur mssms, fait un select de la table employee.  
 Vous devez avoir ce résultat.  
-![image](https://github.com/user-attachments/assets/0ff8dcf1-78b1-42f3-8e35-77ee745b99fc)
+![image](https://github.com/user-attachments/assets/0ff8dcf1-78b1-42f3-8e35-77ee745b99fc)  
+
+Au final vous devez avoir  
+![image](https://github.com/user-attachments/assets/f8bad7fa-dc97-419f-8b6a-6e9574f9b8b8)
+
 
 
